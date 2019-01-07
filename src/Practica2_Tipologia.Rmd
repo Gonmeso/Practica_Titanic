@@ -3,9 +3,9 @@ title: 'Práctica 2: Limpieza y validación de los datos'
 author: "Gonzalo Mellizo-Soto"
 date: '`r format(Sys.Date(),"%e de %B %Y")`'
 output:  
-  html_document:
-    toc: TRUE
   pdf_document:
+    toc: TRUE
+  html_document:
     toc: TRUE
 ---
 
